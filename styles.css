@@ -1,0 +1,40 @@
+body {
+  background-color: #4f4f4f;
+  color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  text-align: Center
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: arial;
+  font-size: 24px;
+}
+
+a {
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+  
+}
+
+hr {
+  color: gray; 
+  border-style: solid;
+}
+
+pre {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  font-family: arial;
+}

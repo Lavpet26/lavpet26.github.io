@@ -6,17 +6,20 @@ body {
 
 h1 {
   color: #634474;
+  background-color: #FFEAD6
   text-align: center;
   font-family: Georgia;
 }
 
 h3 {
   color: #44304F;
+  background-color: #FFEAD6
   text-align: Center
 }
 
 p {
   color: #44304F;
+  background-color: #FFEAD6
   text-align: center;
   font-family: Verdana;
   font-size: 24px;
@@ -24,6 +27,7 @@ p {
 
 a {
   color: #44304F;
+  background-color: #FFEAD6
   font-family: Verdana;
   font-weight: bold;
   

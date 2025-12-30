@@ -25,14 +25,6 @@ p {
   font-size: 24px;
 }
 
-a {
-  color: #44304F;
-  background-color: #FFEAD6
-  font-family: Verdana;
-  font-weight: bold;
-  
-}
-
 hr {
   color: #44304F; 
   border-style: solid;
@@ -46,7 +38,10 @@ pre {
 }
 
 .link {
+  color: #44304F;
+  background-color: #FFEAD6
+  font-weight: bold;
   float: right;
   text-align: right; 
-  font-family: Verdana
+  font-family: Verdana;
 }

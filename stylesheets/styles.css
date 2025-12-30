@@ -38,10 +38,12 @@ pre {
 }
 
 .link {
-  color: #44304F;
-  background-color: #FFEAD6
   font-weight: bold;
   float: right;
-  text-align: right; 
   font-family: Verdana;
+  background-color: #44304F;
+  color: #FFEAD6;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
 }
